@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-AtherHub-25008"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SecretGameSs/Flash/refs/heads/main/Script.io"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecretGameSs/SmallGameSs/refs/heads/main/.io"))()
